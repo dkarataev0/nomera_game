@@ -1,0 +1,7 @@
+БЫСТРО:
+1) GitHub → New repository → nomera-game
+2) Add file → Upload files
+3) Загрузить ВСЕ файлы из этого архива в корень репозитория
+4) Settings → Pages → Deploy from a branch → main → /(root) → Save
+5) Открыть https://ВАШ-ЛОГИН.github.io/nomera-game/
+6) На iPhone: Safari → Поделиться → На экран «Домой» → Добавить
